@@ -1,1 +1,1 @@
-# Ball_on_inclined_plane
+# Ball on Inclined Plane
